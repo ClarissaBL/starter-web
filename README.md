@@ -8,8 +8,7 @@ Sample website with plenty of files for demos
 
 ## Copyright
 
-<<<<<<< HEAD
-this is a copyright notice I messed up dude
-=======
-this is a copyright notice FUCK 
->>>>>>> add-copyright
+
+
+##How to contribute
+please fork this repository and then issue pull request 
