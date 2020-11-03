@@ -8,4 +8,8 @@ Sample website with plenty of files for demos
 
 ## Copyright
 
+<<<<<<< HEAD
 this is a copyright notice I messed up dude
+=======
+this is a copyright notice FUCK 
+>>>>>>> add-copyright
