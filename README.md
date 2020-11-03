@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 ## Copyright
 
-this is a copyright notice
+this is a copyright notice I messed up dude
