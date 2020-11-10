@@ -7,7 +7,7 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## Copyright
-
+whatever dude you kissed a guy 
 
 
 ##How to contribute
